@@ -1,0 +1,55 @@
+#segundo-apellido {
+    font-size: 50px;
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+h1 {
+    color: blue;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.container-about-me #about-me:hover {
+    color: red;
+}
+
+section.container-about-me p#about-me:first-letter {
+    color: green;
+    font-size: 60px;
+}
+
+button {
+    display: inline;
+    padding: 20px;
+    margin: 50px;
+}
+
+.este-es-azul{
+    background-color: blue;
+}
+
+.este-es-rojo{
+    background-color: red;
+    z-index: 0;
+}
+
+.bloque{
+    padding: 20px;
+    margin: 20px;
+    border: 2px green solid;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.hijo {
+    
+    width: 100px;
+    width: 100px;
+    background-color: green;
+}
